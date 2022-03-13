@@ -1,0 +1,27 @@
+
+.active-btn{ 
+    border:none;
+    margin:10px;
+    background-color: black;
+    border-radius: 60px;
+    padding:8px 12px 6px 12px;
+    font-size: 16px;
+    cursor: pointer;
+    color:rgb(11, 201, 235);
+    border:solid #b21134;
+    font-weight: bold;
+    
+    }
+
+.inactive-btn{
+    color: aqua;
+    font-weight: bold;
+    background-color:#b21111; 
+    border:none;
+    margin:10px;
+    border-radius: 60px;
+    padding:8px 12px 6px 12px;
+    font-size: 16px;
+    cursor: pointer;
+}
+

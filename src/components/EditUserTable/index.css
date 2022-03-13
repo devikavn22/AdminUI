@@ -1,0 +1,13 @@
+.save{
+    font-weight: bold;
+    margin-right: 10px; 
+}
+.button{
+    padding: 3px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+}
+.cancel{
+    color: red;
+}
